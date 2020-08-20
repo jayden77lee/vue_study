@@ -1,5 +1,4 @@
 <?php
-
 //action.php
 
 $connect = new PDO("mysql:host=localhost;dbname=vue_db", "root", "");
